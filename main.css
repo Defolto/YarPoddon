@@ -1,0 +1,70 @@
+body{
+    overflow-x: hidden !important;
+    width: 100%;
+    height: 100%;
+}
+.bag{
+    overflow-x: hidden !important;
+}
+.pad{
+    margin: 10px;
+    margin-left: 13px;
+    margin-right: 13px;
+    box-shadow: 0 14px 28px rgba(51, 51, 51, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    border-radius: 15px;
+    text-align: center;
+    background-color: #e2e2e2;
+}
+strong{
+    padding: 5px;
+}
+.pad:hover {
+    background-color: rgb(196, 196, 196);
+    box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.5), 1px 1px 5px rgb(0, 0, 0);
+    color: rgb(43, 43, 43);
+}
+.pad:active{
+    box-shadow: 0 0 0 2px rgb(58, 58, 58) inset, 0 0 0 1px rgb(0, 0, 0) inset;
+}
+.fon{
+    background-image: url('image/12.jpg');
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.fon1{
+    background-image: url('image/123.jpg');
+    height: 100%;
+}
+strong{
+    color: rgb(51, 51, 51);
+}
+.font{
+    font-size: 20px;
+    font-weight: bold;
+}
+.ten{
+    text-shadow: 1px 1px #312f31, 1px -1px #272627, -1px 1px #1d1c1d, -1px -1px #1b1a1b, 3px 3px 6px rgba(0,0,0,.5);
+}
+ img{
+    border-radius: 15px;
+    border: 2px solid black;
+}
+.slid{
+    font-size: 35px;
+    text-shadow: 1px 1px #312f31, 1px -1px #272627, -1px 1px #1d1c1d, -1px -1px #1b1a1b, 3px 3px 6px rgba(0,0,0,.5);
+}
+.fonte{
+    font-size: 25px;
+    text-shadow: 1.5px 1.5px #312f31, 1.5px -1.5px #272627, -1.5px 1.5px #1d1c1d, -1.5px -1.5px #1b1a1b, 3.5px 3.5px 6.5px rgba(0,0,0,.5);
+}
+li{
+    list-style-type: none;
+}
+.nap{
+    font-size: 45px;
+}
+blockquote{
+    font-size: 20px;
+    font-style: italic;
+    padding-bottom: 15px;
+}

@@ -1,0 +1,10 @@
+.fonte{
+    font-size: 25px;
+    text-shadow: 0.5px 0.5px #312f31, 0.5px -0.5px #272627, -0.5px 0.5px #1d1c1d, -0.5px -0.5px #1b1a1b, 3px 3px 6px rgba(0,0,0,.5);
+}
+.discont{
+    font-size: 20px;
+    color: black !important;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+}
